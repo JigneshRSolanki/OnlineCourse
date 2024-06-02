@@ -1,0 +1,8 @@
+﻿body
+{
+}
+
+.card img:first-child {
+    height: 348px;
+    width: 348px;
+}
